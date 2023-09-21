@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69a4d406-508e-46ce-9bb8-c0403f6b2f88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmet/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmet/cluster/management/ServiceRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmet/model/proto/SearchModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmet/networking/CoordinatorClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmet/networking/OnRequestCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/A Modest Proposal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/A Tale of Two Cities.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Alice’s Adventures in Wonderland.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Crime And Punishment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Dracula.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Frankenstein.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Grimms’ Fairy Tales.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Heart of Darkness.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Moby Dick.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Pride and Prejudice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Adventures of Sherlock Holmes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Adventures of Tom Sawyer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Count of Monte Cristo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Iliad of Homer by Homer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Importance of Being Earnest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Souls of Black Folk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Strange Case Of Dr. Jekyll And Mr. Hyde.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Wonderful Wizard of Oz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Yellow Wallpaper.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books/War and Peace.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ui_assets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ui_assets/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ui_assets/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2VhtF8gRRuSABJrlOBLu8hQeIjp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Software/DistributedSystemsAndCloudComputingWithJava/distr-search-frontend/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Software\DistributedSystemsAndCloudComputingWithJava\distr-search-frontend\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ahmet.networking" />
+      <recent name="com.ahmet.model.proto" />
+      <recent name="com.ahmet.cluster.management" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69a4d406-508e-46ce-9bb8-c0403f6b2f88" name="Changes" comment="" />
+      <created>1695300033594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695300033594</updated>
+      <workItem from="1695300034621" duration="1608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -4,41 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69a4d406-508e-46ce-9bb8-c0403f6b2f88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmet/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmet/cluster/management/ServiceRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmet/model/proto/SearchModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmet/networking/CoordinatorClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmet/networking/OnRequestCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/A Modest Proposal.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/A Tale of Two Cities.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Alice’s Adventures in Wonderland.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Crime And Punishment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Dracula.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Frankenstein.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Grimms’ Fairy Tales.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Heart of Darkness.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Moby Dick.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Pride and Prejudice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Adventures of Sherlock Holmes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Adventures of Tom Sawyer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Count of Monte Cristo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Iliad of Homer by Homer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Importance of Being Earnest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Souls of Black Folk.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Strange Case Of Dr. Jekyll And Mr. Hyde.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Wonderful Wizard of Oz.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/The Yellow Wallpaper.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/War and Peace.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ui_assets/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ui_assets/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ui_assets/style.css" afterDir="false" />
+    <list default="true" id="69a4d406-508e-46ce-9bb8-c0403f6b2f88" name="Changes" comment="...">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ahmet/search/UserSearchHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ahmet/search/UserSearchHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -69,6 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -77,6 +48,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,11 +70,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695300033594</updated>
-      <workItem from="1695300034621" duration="1608000" />
+      <workItem from="1695300034621" duration="9591000" />
     </task>
+    <task id="LOCAL-00001" summary="...">
+      <option name="closed" value="true" />
+      <created>1695304372990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695304372990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
